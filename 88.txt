@@ -1,0 +1,4 @@
+
+cd neuro-test2
+
+npm run dev
