@@ -2,3 +2,12 @@
 cd neuro-test2
 
 npm run dev
+
+
+
+
+git add .
+
+git commit -m "Подключены компоненты, добавлена страница теста"
+
+git push
